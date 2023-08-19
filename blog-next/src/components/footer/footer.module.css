@@ -1,0 +1,14 @@
+.container{
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.img{
+  display: flex;
+  gap: 1rem;
+}
+.icon{
+  opacity: 0.6s;
+  cursor: pointer;
+}
